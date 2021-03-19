@@ -28,7 +28,7 @@ public class Demo1 {
 	}
 	
 	@Test
-	public void Test5()
+	public void Test51()
 	{
 		System.out.println("Test5");
 	}
